@@ -1,0 +1,9 @@
+.dcharts{
+    display: flex;
+    margin-left: 5rem;
+    gap: 7rem;
+}
+
+.piechr{
+    margin-left: 5rem !important;
+}
